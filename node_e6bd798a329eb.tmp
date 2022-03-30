@@ -10,7 +10,7 @@ http.createServer((rec, res) => {
     if(url === '/stats'){
         res.end(JSON.stringify(stats, null, 2))
     } else {
-        res.end('<h1>Seja bem vindo, para acessar o status do seu pc adicione "/stats" na barra de pesquisa</h1>')
+        res.end('<h1>Seja bem vindo</h1>')
     }
     
 }).listen(port, () => console.log(`Server is running in ${host}:${port}`));
