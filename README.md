@@ -8,4 +8,6 @@ Como podem ver esse server localhost rodando na porta 3000, sua principal funç�
 │  Usage   |                                          
 Segue as fotos de demonstração:
 
+![TelaInicial](img/Captura1.png)
+![TelaInicial](img/Captura2.png)
 
